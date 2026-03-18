@@ -1,0 +1,93 @@
+version: '3.8'
+
+# Cluster de Apache Cassandra con 3 nodos para el sistema ReservaDB.
+# Se utiliza GossipingPropertyFileSnitch para compatibilidad con SimpleStrategy.
+# Cada nodo se inicia secuencialmente para evitar conflictos al unirse al cluster.
+
+services:
+  cassandra-node1:
+    image: cassandra:4.1
+    container_name: cassandra-node1
+    hostname: cassandra-node1
+    ports:
+      - "9042:9042"
+    environment:
+      - CASSANDRA_SEEDS=cassandra-node1
+      - CASSANDRA_CLUSTER_NAME=ReservaDB_Cluster
+      - CASSANDRA_DC=dc1
+      - CASSANDRA_RACK=rack1
+      - CASSANDRA_ENDPOINT_SNITCH=GossipingPropertyFileSnitch
+      - MAX_HEAP_SIZE=512M
+      - HEAP_NEWSIZE=100M
+    networks:
+      - cassandra-net
+    volumes:
+      - cassandra-data1:/var/lib/cassandra
+    healthcheck:
+      test: ["CMD-SHELL", "cqlsh -e 'SELECT now() FROM system.local'"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+
+  cassandra-node2:
+    image: cassandra:4.1
+    container_name: cassandra-node2
+    hostname: cassandra-node2
+    ports:
+      - "9043:9042"
+    environment:
+      - CASSANDRA_SEEDS=cassandra-node1
+      - CASSANDRA_CLUSTER_NAME=ReservaDB_Cluster
+      - CASSANDRA_DC=dc1
+      - CASSANDRA_RACK=rack2
+      - CASSANDRA_ENDPOINT_SNITCH=GossipingPropertyFileSnitch
+      - MAX_HEAP_SIZE=512M
+      - HEAP_NEWSIZE=100M
+    depends_on:
+      cassandra-node1:
+        condition: service_healthy
+    networks:
+      - cassandra-net
+    volumes:
+      - cassandra-data2:/var/lib/cassandra
+    healthcheck:
+      test: ["CMD-SHELL", "cqlsh -e 'SELECT now() FROM system.local'"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+
+  cassandra-node3:
+    image: cassandra:4.1
+    container_name: cassandra-node3
+    hostname: cassandra-node3
+    ports:
+      - "9044:9042"
+    environment:
+      - CASSANDRA_SEEDS=cassandra-node1
+      - CASSANDRA_CLUSTER_NAME=ReservaDB_Cluster
+      - CASSANDRA_DC=dc1
+      - CASSANDRA_RACK=rack3
+      - CASSANDRA_ENDPOINT_SNITCH=GossipingPropertyFileSnitch
+      - MAX_HEAP_SIZE=512M
+      - HEAP_NEWSIZE=100M
+    depends_on:
+      cassandra-node2:
+        condition: service_healthy
+    networks:
+      - cassandra-net
+    volumes:
+      - cassandra-data3:/var/lib/cassandra
+    healthcheck:
+      test: ["CMD-SHELL", "cqlsh -e 'SELECT now() FROM system.local'"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+
+networks:
+  cassandra-net:
+    driver: bridge
+
+volumes:
+  cassandra-data1:
+  cassandra-data2:
+  cassandra-data3:

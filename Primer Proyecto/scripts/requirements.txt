@@ -1,0 +1,3 @@
+cassandra-driver==3.29.2
+faker==24.4.0
+pyasyncore
