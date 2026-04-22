@@ -1,0 +1,1090 @@
+actorId,peliculaId,personaje
+38,1,Soldado
+32,1,Interes Romantico
+92,1,Soldado
+10,1,Detective
+11,1,Cientifico
+35,1,Mentor
+20,1,Mejor Amigo
+40,2,Madre
+57,2,Mentor
+47,2,Interes Romantico
+24,3,Profesor
+56,3,Profesor
+58,3,Doctor
+14,4,Reportero
+4,4,Detective
+12,4,Soldado
+46,4,Protagonista
+71,4,Companero
+77,4,Mago
+100,5,Doctor
+11,5,Hermano
+93,5,Soldado
+72,5,Hermano
+32,5,Interes Romantico
+74,5,Madre
+35,6,Mago
+64,6,Madre
+19,6,Mago
+9,6,Companero
+22,6,Villano Secundario
+47,7,Villano Secundario
+33,7,Reportero
+32,7,Reportero
+59,8,Protagonista
+14,8,Soldado
+18,8,Detective
+39,8,Reportero
+43,9,Companero
+57,9,Detective
+56,9,Reportero
+84,9,Hermana
+77,9,Villano Secundario
+18,9,Detective
+51,10,Villano Secundario
+41,10,Capitan
+38,10,Padre
+95,10,Detective
+36,11,Capitan
+51,11,Profesor
+47,11,Hermano
+15,11,Profesor
+73,11,Protagonista
+26,11,Heroe Secundario
+27,12,Interes Romantico
+57,12,Companero
+38,12,Padre
+89,12,Madre
+9,12,Interes Romantico
+53,12,Mago
+87,12,Soldado
+64,12,Mejor Amigo
+77,13,Mago
+62,13,Profesor
+75,13,Antagonista
+52,13,Cientifico
+69,13,Profesor
+65,13,Reportero
+11,14,Reportero
+14,14,Antagonista
+99,14,Capitan
+32,14,Soldado
+85,14,Detective
+86,14,Mago
+46,14,Mentor
+22,14,Protagonista
+34,15,Doctor
+29,15,Profesor
+66,15,Capitan
+74,16,Capitan
+29,16,Doctor
+58,16,Interes Romantico
+48,16,Cientifico
+51,16,Protagonista
+60,16,Villano Secundario
+99,16,Mentor
+87,16,Companero
+11,17,Detective
+15,17,Heroe Secundario
+94,17,Hermana
+19,17,Doctor
+45,17,Villano Secundario
+40,17,Cientifico
+13,18,Mejor Amigo
+57,18,Companero
+93,18,Antagonista
+90,18,Mentor
+58,18,Protagonista
+41,18,Detective
+14,19,Hermano
+87,19,Detective
+22,19,Profesor
+95,19,Mago
+32,19,Heroe Secundario
+67,19,Padre
+23,19,Soldado
+71,19,Hermano
+82,20,Protagonista
+85,20,Reportero
+56,20,Hermana
+51,20,Heroe Secundario
+55,21,Mejor Amigo
+50,21,Capitan
+1,21,Mentor
+91,21,Profesor
+28,21,Hermano
+27,21,Cientifico
+36,21,Detective
+59,22,Villano Secundario
+15,22,Doctor
+34,22,Detective
+86,22,Reportero
+79,23,Heroe Secundario
+51,23,Reportero
+76,23,Hermano
+15,23,Companero
+45,23,Reportero
+46,23,Capitan
+87,24,Mentor
+18,24,Padre
+41,24,Companero
+24,25,Interes Romantico
+48,25,Doctor
+89,25,Soldado
+77,26,Villano Secundario
+18,26,Profesor
+74,26,Hermano
+50,26,Profesor
+55,26,Hermano
+24,26,Villano Secundario
+18,27,Antagonista
+24,27,Cientifico
+41,27,Protagonista
+58,27,Villano Secundario
+80,27,Interes Romantico
+50,28,Villano Secundario
+72,28,Mago
+65,28,Villano Secundario
+84,28,Mago
+57,29,Companero
+63,29,Antagonista
+22,29,Madre
+11,29,Padre
+73,29,Profesor
+4,29,Companero
+98,29,Hermano
+29,29,Heroe Secundario
+96,30,Mentor
+99,30,Madre
+64,30,Profesor
+71,30,Cientifico
+66,30,Profesor
+15,30,Antagonista
+74,30,Heroe Secundario
+28,31,Companero
+55,31,Antagonista
+14,31,Heroe Secundario
+95,31,Madre
+84,31,Cientifico
+97,31,Mejor Amigo
+32,31,Heroe Secundario
+100,32,Capitan
+31,32,Cientifico
+27,32,Reportero
+55,33,Profesor
+22,33,Madre
+79,33,Reportero
+18,33,Profesor
+27,33,Hermano
+8,33,Detective
+73,33,Companero
+45,33,Companero
+35,34,Antagonista
+66,34,Madre
+87,34,Interes Romantico
+13,34,Interes Romantico
+18,34,Padre
+97,34,Interes Romantico
+53,34,Detective
+98,35,Interes Romantico
+87,35,Capitan
+51,35,Madre
+63,35,Mago
+58,36,Doctor
+10,36,Madre
+82,36,Cientifico
+99,36,Heroe Secundario
+12,36,Villano Secundario
+52,36,Detective
+1,37,Cientifico
+100,37,Mejor Amigo
+94,37,Profesor
+12,37,Soldado
+59,37,Hermana
+82,37,Mago
+86,37,Hermana
+35,38,Interes Romantico
+42,38,Capitan
+37,38,Villano Secundario
+44,38,Detective
+71,38,Antagonista
+74,38,Antagonista
+81,39,Mentor
+59,39,Hermano
+3,39,Heroe Secundario
+1,40,Companero
+55,40,Hermano
+26,40,Madre
+89,40,Mejor Amigo
+17,40,Cientifico
+84,40,Madre
+48,41,Hermano
+86,41,Antagonista
+84,41,Soldado
+40,42,Mentor
+93,42,Protagonista
+90,42,Hermana
+97,42,Villano Secundario
+30,42,Mejor Amigo
+55,42,Interes Romantico
+84,42,Capitan
+12,42,Padre
+88,43,Interes Romantico
+57,43,Villano Secundario
+2,43,Mejor Amigo
+90,43,Padre
+44,43,Soldado
+16,43,Mejor Amigo
+55,43,Mentor
+41,44,Interes Romantico
+48,44,Soldado
+39,44,Interes Romantico
+87,45,Hermano
+19,45,Heroe Secundario
+9,45,Cientifico
+68,45,Hermana
+73,45,Interes Romantico
+2,45,Mago
+79,45,Reportero
+84,45,Heroe Secundario
+12,46,Mentor
+13,46,Capitan
+18,46,Soldado
+97,46,Cientifico
+41,47,Padre
+18,47,Profesor
+32,47,Reportero
+36,47,Reportero
+83,47,Reportero
+11,47,Companero
+4,48,Soldado
+85,48,Companero
+39,48,Antagonista
+27,48,Padre
+67,48,Villano Secundario
+78,48,Soldado
+66,48,Mentor
+25,48,Padre
+82,49,Detective
+77,49,Interes Romantico
+10,49,Soldado
+68,49,Capitan
+2,49,Mago
+47,49,Cientifico
+88,50,Capitan
+23,50,Mejor Amigo
+98,50,Protagonista
+61,50,Madre
+99,50,Hermana
+10,50,Antagonista
+3,50,Antagonista
+65,51,Mago
+37,51,Soldado
+81,51,Mejor Amigo
+92,51,Profesor
+99,51,Profesor
+54,51,Reportero
+36,52,Hermana
+11,52,Interes Romantico
+40,52,Profesor
+66,52,Detective
+76,53,Mejor Amigo
+82,53,Companero
+98,53,Mago
+84,53,Padre
+88,53,Antagonista
+83,53,Padre
+56,54,Reportero
+15,54,Reportero
+59,54,Antagonista
+86,55,Protagonista
+95,55,Interes Romantico
+85,55,Protagonista
+23,55,Hermano
+16,55,Villano Secundario
+67,56,Interes Romantico
+93,56,Madre
+34,56,Mentor
+22,56,Protagonista
+48,56,Detective
+35,57,Mejor Amigo
+68,57,Villano Secundario
+9,57,Heroe Secundario
+34,57,Doctor
+92,57,Cientifico
+74,57,Antagonista
+73,58,Mentor
+22,58,Capitan
+48,58,Mentor
+21,58,Padre
+33,58,Doctor
+99,58,Protagonista
+2,59,Villano Secundario
+32,59,Cientifico
+6,59,Soldado
+23,60,Mago
+5,60,Padre
+71,60,Detective
+92,60,Padre
+93,61,Mentor
+41,61,Doctor
+35,61,Antagonista
+10,61,Hermano
+74,61,Padre
+48,61,Doctor
+52,62,Companero
+9,62,Companero
+60,62,Detective
+71,63,Cientifico
+59,63,Hermana
+2,63,Companero
+39,64,Villano Secundario
+95,64,Hermana
+80,64,Profesor
+32,64,Padre
+60,64,Interes Romantico
+48,64,Protagonista
+76,64,Mago
+30,65,Protagonista
+70,65,Detective
+45,65,Protagonista
+49,66,Mago
+95,66,Villano Secundario
+94,66,Antagonista
+40,66,Interes Romantico
+14,66,Madre
+27,66,Mejor Amigo
+68,66,Antagonista
+31,66,Padre
+53,67,Mentor
+90,67,Doctor
+48,67,Interes Romantico
+59,67,Soldado
+96,67,Mejor Amigo
+11,67,Capitan
+75,67,Capitan
+56,68,Padre
+85,68,Companero
+17,68,Madre
+51,69,Heroe Secundario
+90,69,Madre
+95,69,Padre
+42,69,Mejor Amigo
+41,69,Hermana
+100,70,Interes Romantico
+99,70,Mentor
+75,70,Hermano
+14,70,Heroe Secundario
+41,71,Hermana
+53,71,Heroe Secundario
+16,71,Companero
+69,71,Heroe Secundario
+46,71,Madre
+99,71,Mentor
+21,72,Reportero
+88,72,Antagonista
+39,72,Hermana
+19,73,Soldado
+12,73,Doctor
+92,73,Antagonista
+32,73,Companero
+46,73,Madre
+4,74,Profesor
+52,74,Padre
+58,74,Mentor
+72,74,Heroe Secundario
+18,75,Antagonista
+16,75,Padre
+2,75,Interes Romantico
+52,76,Mejor Amigo
+48,76,Capitan
+88,76,Capitan
+81,76,Madre
+3,77,Heroe Secundario
+9,77,Interes Romantico
+26,77,Mejor Amigo
+16,78,Capitan
+6,78,Mago
+60,78,Soldado
+7,78,Villano Secundario
+22,78,Protagonista
+88,79,Madre
+55,79,Madre
+23,79,Heroe Secundario
+46,79,Interes Romantico
+28,79,Antagonista
+24,79,Reportero
+79,80,Villano Secundario
+32,80,Antagonista
+83,80,Mejor Amigo
+38,80,Madre
+64,80,Soldado
+53,80,Interes Romantico
+71,80,Mago
+83,81,Profesor
+68,81,Protagonista
+32,81,Soldado
+81,81,Cientifico
+70,82,Soldado
+63,82,Madre
+45,82,Hermano
+73,82,Protagonista
+65,82,Detective
+42,82,Reportero
+4,83,Villano Secundario
+100,83,Doctor
+36,83,Cientifico
+8,83,Capitan
+21,84,Padre
+13,84,Madre
+32,84,Profesor
+85,84,Antagonista
+74,85,Hermano
+50,85,Padre
+46,85,Capitan
+23,85,Detective
+90,86,Villano Secundario
+46,86,Profesor
+76,86,Companero
+4,86,Hermano
+91,86,Villano Secundario
+73,86,Antagonista
+19,86,Mejor Amigo
+25,86,Antagonista
+78,87,Villano Secundario
+29,87,Protagonista
+3,87,Detective
+68,87,Reportero
+17,88,Detective
+44,88,Antagonista
+92,88,Protagonista
+23,88,Interes Romantico
+91,89,Cientifico
+19,89,Soldado
+100,89,Capitan
+15,89,Mentor
+68,89,Detective
+47,89,Companero
+10,89,Detective
+21,90,Villano Secundario
+94,90,Detective
+56,90,Hermano
+82,90,Profesor
+79,91,Companero
+46,91,Interes Romantico
+29,91,Hermano
+86,91,Protagonista
+76,91,Capitan
+23,91,Soldado
+49,91,Capitan
+40,91,Antagonista
+78,92,Capitan
+41,92,Mentor
+79,92,Villano Secundario
+29,92,Interes Romantico
+96,93,Hermano
+10,93,Mejor Amigo
+31,93,Detective
+45,93,Heroe Secundario
+41,93,Protagonista
+27,94,Madre
+32,94,Mentor
+89,94,Protagonista
+9,94,Antagonista
+45,94,Soldado
+94,95,Cientifico
+54,95,Profesor
+22,95,Soldado
+53,95,Mentor
+64,95,Villano Secundario
+49,95,Capitan
+98,96,Protagonista
+88,96,Detective
+29,96,Madre
+21,96,Mentor
+58,96,Mejor Amigo
+10,96,Detective
+5,96,Hermano
+38,96,Soldado
+94,97,Detective
+10,97,Reportero
+71,97,Reportero
+12,97,Villano Secundario
+4,98,Detective
+56,98,Hermana
+84,98,Hermana
+22,98,Mago
+78,98,Profesor
+21,98,Profesor
+7,98,Madre
+13,98,Companero
+31,99,Profesor
+13,99,Villano Secundario
+7,99,Interes Romantico
+51,99,Antagonista
+74,99,Cientifico
+55,100,Reportero
+12,100,Villano Secundario
+38,100,Hermana
+4,101,Companero
+27,101,Mejor Amigo
+22,101,Villano Secundario
+40,102,Villano Secundario
+51,102,Madre
+61,102,Mejor Amigo
+70,103,Heroe Secundario
+50,103,Heroe Secundario
+24,103,Madre
+48,103,Padre
+49,103,Madre
+58,103,Capitan
+6,103,Antagonista
+34,103,Interes Romantico
+86,104,Padre
+13,104,Profesor
+11,104,Antagonista
+45,104,Soldado
+70,104,Doctor
+53,104,Mago
+97,104,Profesor
+76,104,Villano Secundario
+31,105,Doctor
+61,105,Capitan
+39,105,Doctor
+11,105,Capitan
+51,105,Reportero
+92,105,Interes Romantico
+5,105,Mentor
+23,106,Mago
+22,106,Mejor Amigo
+28,106,Mago
+25,106,Hermana
+17,106,Interes Romantico
+6,106,Reportero
+41,107,Profesor
+94,107,Soldado
+9,107,Profesor
+12,107,Detective
+50,107,Madre
+59,108,Mentor
+2,108,Mago
+90,108,Interes Romantico
+80,108,Interes Romantico
+76,108,Capitan
+67,108,Capitan
+54,108,Capitan
+14,109,Mentor
+73,109,Companero
+100,109,Profesor
+53,110,Capitan
+34,110,Reportero
+50,110,Villano Secundario
+84,110,Antagonista
+63,110,Hermano
+52,111,Soldado
+19,111,Antagonista
+80,111,Soldado
+78,111,Detective
+88,111,Padre
+96,112,Cientifico
+61,112,Protagonista
+35,112,Detective
+40,113,Mentor
+36,113,Padre
+63,113,Interes Romantico
+90,113,Companero
+88,113,Heroe Secundario
+35,114,Mejor Amigo
+94,114,Hermana
+54,114,Heroe Secundario
+78,114,Hermana
+83,114,Mago
+63,115,Companero
+98,115,Doctor
+67,115,Soldado
+48,115,Interes Romantico
+8,115,Doctor
+66,115,Capitan
+21,115,Protagonista
+9,115,Hermano
+26,116,Heroe Secundario
+8,116,Antagonista
+32,116,Cientifico
+5,116,Hermana
+48,117,Mentor
+60,117,Protagonista
+65,117,Padre
+51,117,Cientifico
+82,117,Villano Secundario
+58,118,Madre
+23,118,Mejor Amigo
+61,118,Companero
+76,118,Protagonista
+71,118,Soldado
+45,118,Antagonista
+21,118,Hermano
+100,119,Mago
+28,119,Doctor
+29,119,Protagonista
+83,119,Protagonista
+87,119,Villano Secundario
+27,119,Interes Romantico
+35,119,Hermano
+2,120,Madre
+29,120,Mago
+33,120,Soldado
+78,120,Cientifico
+40,120,Heroe Secundario
+92,120,Madre
+91,120,Hermana
+39,121,Mentor
+87,121,Protagonista
+67,121,Doctor
+80,121,Cientifico
+51,121,Profesor
+75,121,Reportero
+37,122,Madre
+39,122,Detective
+88,122,Madre
+14,122,Madre
+62,122,Companero
+9,122,Hermana
+44,122,Interes Romantico
+98,123,Interes Romantico
+31,123,Protagonista
+8,123,Villano Secundario
+77,123,Companero
+52,123,Madre
+85,123,Mago
+41,123,Soldado
+95,124,Detective
+5,124,Padre
+75,124,Profesor
+91,124,Villano Secundario
+74,124,Cientifico
+25,124,Doctor
+22,125,Mentor
+85,125,Villano Secundario
+72,125,Interes Romantico
+24,125,Madre
+38,125,Profesor
+88,126,Padre
+43,126,Cientifico
+84,126,Padre
+12,126,Companero
+43,127,Mentor
+48,127,Villano Secundario
+34,127,Antagonista
+75,127,Capitan
+38,127,Capitan
+60,127,Reportero
+61,128,Mentor
+25,128,Soldado
+65,128,Doctor
+53,129,Detective
+7,129,Mago
+20,129,Capitan
+18,129,Heroe Secundario
+26,129,Interes Romantico
+92,130,Detective
+24,130,Hermano
+100,130,Detective
+11,130,Antagonista
+63,130,Protagonista
+36,131,Hermano
+27,131,Villano Secundario
+98,131,Mejor Amigo
+100,131,Interes Romantico
+22,131,Reportero
+74,131,Mago
+55,132,Cientifico
+52,132,Protagonista
+62,132,Detective
+50,132,Doctor
+1,132,Hermana
+5,132,Protagonista
+69,132,Protagonista
+26,132,Padre
+89,133,Mentor
+45,133,Soldado
+40,133,Doctor
+17,133,Capitan
+22,134,Heroe Secundario
+9,134,Doctor
+6,134,Reportero
+39,134,Doctor
+38,134,Detective
+88,135,Hermana
+18,135,Hermano
+44,135,Soldado
+63,135,Protagonista
+46,135,Padre
+97,135,Padre
+17,136,Cientifico
+28,136,Antagonista
+94,136,Soldado
+3,136,Madre
+76,136,Profesor
+65,136,Reportero
+22,136,Antagonista
+16,136,Reportero
+85,137,Protagonista
+14,137,Antagonista
+84,137,Mentor
+57,138,Interes Romantico
+49,138,Hermana
+16,138,Protagonista
+71,138,Companero
+33,138,Mago
+61,138,Mentor
+67,139,Doctor
+35,139,Reportero
+80,139,Mentor
+78,139,Companero
+90,139,Mentor
+18,139,Mentor
+54,139,Villano Secundario
+14,139,Hermana
+26,140,Companero
+100,140,Hermano
+34,140,Antagonista
+67,140,Profesor
+46,140,Villano Secundario
+91,140,Hermana
+53,140,Villano Secundario
+31,141,Mentor
+1,141,Capitan
+2,141,Villano Secundario
+86,141,Interes Romantico
+12,141,Mejor Amigo
+10,142,Companero
+93,142,Madre
+13,142,Heroe Secundario
+33,142,Antagonista
+83,142,Mentor
+30,142,Hermano
+59,142,Antagonista
+47,143,Mentor
+87,143,Mentor
+41,143,Antagonista
+55,143,Protagonista
+95,143,Interes Romantico
+83,144,Mejor Amigo
+22,144,Cientifico
+43,144,Detective
+46,144,Hermano
+57,144,Mentor
+80,144,Soldado
+35,144,Soldado
+94,144,Heroe Secundario
+50,145,Hermano
+89,145,Mentor
+62,145,Interes Romantico
+54,145,Antagonista
+84,145,Hermano
+54,146,Capitan
+76,146,Heroe Secundario
+62,146,Hermano
+49,147,Interes Romantico
+100,147,Villano Secundario
+46,147,Villano Secundario
+79,147,Mentor
+4,147,Mago
+88,147,Heroe Secundario
+94,147,Antagonista
+34,148,Protagonista
+84,148,Doctor
+41,148,Capitan
+73,149,Mentor
+29,149,Mago
+86,149,Padre
+44,149,Villano Secundario
+67,149,Cientifico
+89,149,Soldado
+90,149,Interes Romantico
+80,149,Profesor
+7,150,Hermano
+2,150,Mejor Amigo
+83,150,Villano Secundario
+21,150,Detective
+65,150,Padre
+61,150,Detective
+64,150,Madre
+65,151,Soldado
+29,151,Soldado
+71,151,Padre
+59,152,Heroe Secundario
+57,152,Mejor Amigo
+74,152,Villano Secundario
+41,153,Mentor
+16,153,Soldado
+64,153,Mago
+96,153,Antagonista
+84,153,Profesor
+3,153,Profesor
+12,154,Companero
+78,154,Doctor
+80,154,Profesor
+84,155,Cientifico
+86,155,Antagonista
+59,155,Padre
+44,155,Heroe Secundario
+72,156,Cientifico
+99,156,Heroe Secundario
+80,156,Mentor
+77,156,Mentor
+61,156,Padre
+44,157,Companero
+46,157,Profesor
+82,157,Doctor
+90,158,Interes Romantico
+14,158,Mago
+6,158,Mentor
+22,158,Madre
+64,158,Reportero
+25,159,Heroe Secundario
+16,159,Hermana
+51,159,Detective
+28,159,Mentor
+6,160,Heroe Secundario
+82,160,Heroe Secundario
+87,160,Capitan
+76,160,Doctor
+16,160,Interes Romantico
+99,160,Villano Secundario
+68,161,Profesor
+95,161,Mago
+7,161,Capitan
+66,162,Interes Romantico
+100,162,Mentor
+23,162,Soldado
+89,162,Reportero
+75,162,Reportero
+94,162,Detective
+50,163,Soldado
+54,163,Detective
+78,163,Companero
+89,163,Heroe Secundario
+98,163,Interes Romantico
+32,163,Interes Romantico
+36,163,Mago
+90,164,Profesor
+96,164,Hermana
+66,164,Hermana
+39,164,Hermana
+71,164,Reportero
+41,164,Companero
+92,164,Cientifico
+17,165,Detective
+91,165,Mentor
+84,165,Cientifico
+23,165,Profesor
+65,165,Villano Secundario
+70,165,Capitan
+89,165,Capitan
+82,165,Mago
+96,166,Soldado
+69,166,Interes Romantico
+37,166,Antagonista
+55,166,Antagonista
+2,166,Hermana
+67,166,Madre
+14,166,Hermano
+4,166,Companero
+33,167,Antagonista
+19,167,Cientifico
+8,167,Heroe Secundario
+89,167,Mentor
+38,167,Reportero
+27,167,Profesor
+97,167,Padre
+70,167,Profesor
+31,168,Antagonista
+66,168,Soldado
+90,168,Soldado
+37,168,Mago
+89,168,Detective
+86,168,Profesor
+2,169,Hermana
+96,169,Reportero
+33,169,Heroe Secundario
+82,170,Capitan
+91,170,Profesor
+83,170,Reportero
+48,170,Hermana
+25,171,Doctor
+38,171,Mentor
+58,171,Soldado
+23,171,Antagonista
+88,171,Mago
+10,171,Madre
+24,171,Profesor
+95,171,Madre
+21,172,Detective
+75,172,Heroe Secundario
+33,172,Interes Romantico
+1,172,Antagonista
+42,173,Reportero
+77,173,Companero
+7,173,Villano Secundario
+100,173,Capitan
+46,174,Doctor
+10,174,Mejor Amigo
+91,174,Doctor
+41,174,Hermano
+68,174,Mago
+29,174,Profesor
+24,174,Profesor
+12,175,Detective
+45,175,Cientifico
+29,175,Companero
+28,175,Hermana
+85,175,Reportero
+43,175,Doctor
+72,176,Cientifico
+97,176,Heroe Secundario
+84,176,Padre
+2,176,Reportero
+15,176,Reportero
+86,176,Padre
+88,177,Mentor
+42,177,Soldado
+49,177,Madre
+93,178,Doctor
+37,178,Heroe Secundario
+4,178,Villano Secundario
+67,178,Antagonista
+99,178,Companero
+48,178,Hermana
+66,178,Detective
+11,179,Mejor Amigo
+13,179,Hermana
+22,179,Hermana
+99,179,Mago
+69,179,Mentor
+1,179,Hermana
+81,179,Profesor
+95,180,Protagonista
+100,180,Heroe Secundario
+56,180,Detective
+83,180,Antagonista
+10,180,Mejor Amigo
+96,180,Mejor Amigo
+88,180,Antagonista
+20,180,Hermano
+72,181,Mago
+10,181,Soldado
+74,181,Heroe Secundario
+30,181,Soldado
+34,181,Mago
+3,182,Protagonista
+50,182,Reportero
+87,182,Mejor Amigo
+16,182,Capitan
+69,182,Antagonista
+10,183,Mejor Amigo
+46,183,Companero
+65,183,Heroe Secundario
+14,183,Soldado
+38,183,Soldado
+88,183,Protagonista
+39,183,Villano Secundario
+78,183,Hermano
+29,184,Interes Romantico
+18,184,Companero
+96,184,Cientifico
+51,184,Protagonista
+70,184,Profesor
+38,184,Profesor
+82,184,Interes Romantico
+6,185,Reportero
+1,185,Soldado
+74,185,Profesor
+11,186,Hermana
+40,186,Mago
+27,186,Doctor
+96,186,Interes Romantico
+95,186,Hermano
+93,186,Hermano
+45,186,Padre
+33,187,Profesor
+25,187,Heroe Secundario
+15,187,Profesor
+24,187,Mejor Amigo
+86,187,Companero
+73,187,Mejor Amigo
+7,187,Madre
+26,188,Villano Secundario
+93,188,Detective
+75,188,Cientifico
+86,189,Companero
+84,189,Reportero
+31,189,Mejor Amigo
+13,189,Hermana
+63,190,Companero
+58,190,Capitan
+43,190,Interes Romantico
+79,190,Capitan
+85,190,Capitan
+41,191,Padre
+55,191,Mago
+22,191,Madre
+1,191,Cientifico
+32,191,Interes Romantico
+94,192,Villano Secundario
+43,192,Profesor
+62,192,Mentor
+60,192,Hermano
+58,192,Reportero
+46,192,Mejor Amigo
+100,192,Madre
+40,192,Interes Romantico
+26,193,Protagonista
+34,193,Capitan
+94,193,Capitan
+81,193,Soldado
+10,193,Capitan
+3,193,Hermana
+65,193,Antagonista
+34,194,Soldado
+70,194,Padre
+61,194,Capitan
+84,194,Companero
+100,194,Interes Romantico
+20,194,Heroe Secundario
+47,194,Doctor
+12,195,Reportero
+51,195,Hermano
+47,195,Doctor
+65,195,Interes Romantico
+2,195,Heroe Secundario
+85,195,Hermano
+31,195,Hermano
+73,196,Antagonista
+85,196,Padre
+19,196,Villano Secundario
+95,196,Padre
+94,196,Mejor Amigo
+62,196,Madre
+46,196,Cientifico
+6,197,Cientifico
+86,197,Soldado
+27,197,Villano Secundario
+67,197,Heroe Secundario
+6,198,Mentor
+84,198,Doctor
+42,198,Madre
+34,199,Capitan
+75,199,Mejor Amigo
+70,199,Doctor
+73,199,Madre
+23,199,Soldado
+49,199,Padre
+84,199,Doctor
+47,199,Soldado
+45,200,Doctor
+63,200,Interes Romantico
+62,200,Heroe Secundario
+78,200,Hermano
+1,200,Padre

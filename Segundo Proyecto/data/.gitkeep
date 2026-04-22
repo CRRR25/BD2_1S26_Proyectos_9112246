@@ -1,0 +1,2 @@
+# Esta carpeta se llena con los CSV generados por data-generator.
+# Se monta en /var/lib/neo4j/import dentro del contenedor de Neo4j.
